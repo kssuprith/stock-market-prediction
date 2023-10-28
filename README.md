@@ -53,10 +53,7 @@ main.py - main machine learning module
 <b>Password:</b> Samplepass@123
 
 # Authors
-## Kaushik Jadhav
+## Suprith k s
 <ul>
-<li>Github:https://github.com/kaushikjadhav01</li>
-<li>Medium:https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio:http://kaushikjadhav01.github.io/</li>
+<li>Github:https://github.com/kssuprith/stock-market-prediction</li>
 </ul>
